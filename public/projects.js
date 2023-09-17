@@ -3,9 +3,9 @@ const projects = [
     id: 1,
     name: "Portfolio",
     description:
-      " Portfolio is a project with React and Tailwind wich is fully responsible",
+      "This is a portfolio website made with React and Tailwind Css Library.",
     image: "img/por.jpeg",
-    address: "https://github.com/MariAzhdari",
+    address: "https://github.com/MariAzhdari/Portfolio-website-mari",
   },
   {
     id: 2,
