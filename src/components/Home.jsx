@@ -82,16 +82,22 @@ const Home = () => {
             <img src={GitHub} alt="" className="w-10 h-10" />
           </a>
         </div>
-{/* 
+
         <div className="my-1">
           <a
-            href="./assets/cv.pdf"
+            href="../cv.pdf"
             download="Marziyeh_Azhdari_CV.pdf"
             className="p-3 hover:bg-slate-400 block rounded transition-all duration-500"
           >
-            <img src={Download} alt="Download CV" className="w-10 h-10" />
+            <img
+              width="64"
+              height="64"
+              src="https://img.icons8.com/external-itim2101-fill-itim2101/64/external-resume-human-resources-itim2101-fill-itim2101-2.png"
+              alt="external-resume-human-resources-itim2101-fill-itim2101-2"
+              className="w-10 h-10"
+            />   
           </a>
-        </div> */}
+        </div>
       </div>
     </div>
   );
