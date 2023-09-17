@@ -28,11 +28,15 @@ const Footer = () => {
             SOCIAL
           </h4>
           <div className="mt-5 flex gap-3">
-            <a href="" className="ml-1">
+            <a
+              href="https://www.linkedin.com/in/marziyeh-azhdari-3685b0246/"
+              className="ml-1"
+              target="blank"
+            >
               <img src={linkedinIcon} alt="" className="w-7 h-7" />
             </a>
             <a href="" className="ml-1">
-              <img src={githubIcon} alt="" className="w-7 h-7" />
+              <img src={githubIcon} alt="" className="w-7 h-7" target="blank" />
             </a>
           </div>
         </div>
