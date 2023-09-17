@@ -12,7 +12,7 @@ const Header = () => {
     { name: "Home", link: "home" },
     { name: "About me", link: "about" },
     { name: "Projects", link: "projects" },
-    { name: "Contact", link: "contact" },
+    // { name: "Contact", link: "contact" },
   ];
   let [open, setOpen] = useState(false);
 
