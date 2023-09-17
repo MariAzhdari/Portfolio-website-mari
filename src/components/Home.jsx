@@ -2,7 +2,7 @@
 import LinkedIn from "../assets/socials/linkedin.svg";
 import GitHub from "../assets/socials/github.svg";
 // import Email from "../assets/socials/email.svg";
-// import Download from "../assets/socials/Download.svg";
+import Download from "../assets/socials/Download.png";
 import { TypeAnimation } from "react-type-animation";
 
 // motion
@@ -92,7 +92,7 @@ const Home = () => {
             <img
               width="64"
               height="64"
-              src="https://img.icons8.com/external-itim2101-fill-itim2101/64/external-resume-human-resources-itim2101-fill-itim2101-2.png"
+              src={Download}
               alt="external-resume-human-resources-itim2101-fill-itim2101-2"
               className="w-10 h-10"
             />   
