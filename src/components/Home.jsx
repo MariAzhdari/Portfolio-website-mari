@@ -57,6 +57,7 @@ const Home = () => {
           <a
             href="https://www.linkedin.com/in/marziyeh-azhdari-3685b0246/" //
             className="p-3 hover:bg-slate-400 block rounded transition-all duration-500"
+            target="blank"
           >
             <img src={LinkedIn} alt="" className="w-10 h-10" />
           </a>
@@ -71,6 +72,7 @@ const Home = () => {
               src="https://img.icons8.com/?size=1x&id=12580&format=png"
               alt="Email"
               className="w-10 h-10"
+              target="blank"
             />
           </a>
         </div>
@@ -78,6 +80,7 @@ const Home = () => {
           <a
             href="https://github.com/MariAzhdari"
             className="p-3 hover:bg-slate-400 block rounded transition-all duration-500"
+            target="blank"
           >
             <img src={GitHub} alt="" className="w-10 h-10" />
           </a>
@@ -95,7 +98,7 @@ const Home = () => {
               src={Download}
               alt="external-resume-human-resources-itim2101-fill-itim2101-2"
               className="w-10 h-10"
-            />   
+            />
           </a>
         </div>
       </div>
