@@ -12,6 +12,14 @@ const Footer = () => {
           </h4>
           <p className="mt-5 text-sm leading-7 text-[#eee]">
             Feel free to Contact me
+            <a href="tel:07503336272" className="flex items-center mt-3">
+              <img
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSww0IpYO-IZ03ycrEcSMNaVukLF9gMAnE7NUpDyt385Q&s"
+                alt="Phone Icon"
+                className="w-7 h-7 mr-2"
+              />
+              07503336272
+            </a>
           </p>
         </div>
         {/* social icons */}
@@ -29,9 +37,6 @@ const Footer = () => {
           </div>
         </div>
       </div>
-
-   
-
     </div>
   );
 };
