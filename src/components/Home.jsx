@@ -65,7 +65,7 @@ const Home = () => {
 
         <div className="my-1">
           <a
-            href="mailto:marzi.aghchay@gmail.com" // Add your email address as a mailto link
+            href="mailto:marzi.aghchay@gmail.com" 
             className="p-3 hover:bg-slate-400 block rounded transition-all duration-500"
           >
             <img

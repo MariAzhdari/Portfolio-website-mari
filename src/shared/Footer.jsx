@@ -33,10 +33,19 @@ const Footer = () => {
               className="ml-1"
               target="blank"
             >
-              <img src={linkedinIcon} alt="" className="w-7 h-7" />
+              <img
+                src={linkedinIcon}
+                alt=""
+                className="w-7 h-7"
+                target="blank"
+              />
             </a>
-            <a href="" className="ml-1">
-              <img src={githubIcon} alt="" className="w-7 h-7" target="blank" />
+            <a
+              href="https://github.com/MariAzhdari"
+              className="ml-1"
+              target="blank"
+            >
+              <img src={githubIcon} alt="" className="w-7 h-7" />
             </a>
           </div>
         </div>
