@@ -20,6 +20,17 @@ const Footer = () => {
               />
               07503336272
             </a>
+            <a
+              href="mailto:marzi.aghchay@gmail.com"
+              className="flex items-center mt-3"
+            >
+              <img
+                src="https://img.icons8.com/?size=1x&id=0P9EO7FglSqN&format=gif"
+                alt="Email Icon"
+                className="w-7 h-7 mr-2"
+              />
+              marzi.aghchay@gmail.com
+            </a>
           </p>
         </div>
         {/* social icons */}
