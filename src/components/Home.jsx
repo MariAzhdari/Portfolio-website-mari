@@ -48,7 +48,7 @@ const Home = () => {
             web experiences that drive product success. A creative mind, eager
             to learn, and a team player committed to excellence.
           </p>
-          <button className="btn py-4 px-16">PROJECTS</button>
+          {/* <button className="btn py-4 px-16">PROJECTS</button> */}
         </motion.div>
       </div>
       {/* hero socials */}
