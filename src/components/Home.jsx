@@ -88,7 +88,7 @@ const Home = () => {
 
         <div className="my-1">
           <a
-            href="../cv.pdf"
+            href="../cv1.pdf"
             download="Marziyeh_Azhdari_CV.pdf"
             className="p-3 hover:bg-slate-400 block rounded transition-all duration-500"
           >
