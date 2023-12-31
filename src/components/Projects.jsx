@@ -13,7 +13,7 @@ const Projects = () => {
         <Headline
           title={"PROJECTS"}
           subtitle={
-            "Here you will find some of the personal and Group projects that I created "
+            "Here you will find some projects that I created "
           }
         />
 

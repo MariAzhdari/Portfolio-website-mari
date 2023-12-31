@@ -23,19 +23,19 @@ const Home = () => {
           className="text-center md:w-1/2"
         >
           <h1 className="text-primary text-5xl font-extrabold tracking-wider mb-8">
-            HEY, I'M Marziyeh Azhdari
+            HEY, I'M Mohammad Nahvi
           </h1>
           <TypeAnimation
             className="font-semibold text-transparent leading-10 bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600"
             sequence={[
               // Same substring at the start will only be typed once, initially
-              "full-stack developer",
+              "Data Scientistt",
               1000,
               "Data modeling for organized databases",
               1000,
-              "Web designer crafting interfaces",
+              "Data Analyst",
               1000,
-              "Strong problem solver who thrives in collaborative development environments.",
+              "Strong problem solver",
               1000,
             ]}
             speed={50}
@@ -44,9 +44,7 @@ const Home = () => {
           />
           {/* hero info */}
           <p className="text-light text-xl my-8">
-            Full-stack developer with a front-end focus, crafting captivating
-            web experiences that drive product success. A creative mind, eager
-            to learn, and a team player committed to excellence.
+          Data Scientist with a Master's, skilled in SQL, Python, Tableau, and PowerBI. Proven efficiency booster through streamlined processes and impactful predictive modeling. Strong communicator, adept at driving insights for informed decision-making.
           </p>
           {/* <button className="btn py-4 px-16">PROJECTS</button> */}
         </motion.div>
@@ -55,7 +53,7 @@ const Home = () => {
       <div className="bg-white w-20 rounded py-1 px-2 absolute left-0 top-48 hidden md:block">
         <div className="my-1">
           <a
-            href="https://www.linkedin.com/in/marziyeh-azhdari-3685b0246/" //
+            href="https://www.linkedin.com/in/mohammad-nahvi-m-98a4102a7/" //
             className="p-3 hover:bg-slate-400 block rounded transition-all duration-500"
             target="blank"
           >
@@ -65,7 +63,7 @@ const Home = () => {
 
         <div className="my-1">
           <a
-            href="mailto:marzi.aghchay@gmail.com" 
+            href="mailto:mehmet.moghaddam@gmail.com" 
             className="p-3 hover:bg-slate-400 block rounded transition-all duration-500"
           >
             <img
@@ -78,7 +76,7 @@ const Home = () => {
         </div>
         <div className="my-1">
           <a
-            href="https://github.com/MariAzhdari"
+            href="https://github.com/monahvi"
             className="p-3 hover:bg-slate-400 block rounded transition-all duration-500"
             target="blank"
           >
@@ -89,7 +87,7 @@ const Home = () => {
         <div className="my-1">
           <a
             href="../cv1.pdf"
-            download="Marziyeh_Azhdari_CV.pdf"
+            download="MoNahvi_CV.pdf"
             className="p-3 hover:bg-slate-400 block rounded transition-all duration-500"
           >
             <img
