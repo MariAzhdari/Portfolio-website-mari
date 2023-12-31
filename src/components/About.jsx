@@ -15,7 +15,7 @@ const About = () => {
           <Headline
             title={"ABOUT ME"}
             subtitle={
-              "Here you will find more information about me, what I do, and my current skills mostly in terms of programming and technology"
+              "Here you will find more information about me, what I do, and my current skills mostly in terms of Data and technology"
             }
           />
         </div>
@@ -33,24 +33,19 @@ const About = () => {
             <h4 className="text-2xl font-bold mb-8">Get to know me!</h4>
             <div className="md:w-10/12 text-lg text-[#666] mb-8">
               <p className="mb-5">
-                From delving deep into the intricacies of chemistry data
-                analysis to developing web applications as a
-                <strong> full-stack developer</strong>, my journey has been
-                marked by curiosity and determination.
+                
+
+Dedicated and results-driven <strong>Data Scientist</strong> with a Master's Degree in Electrical Engineering - Control. Proficient in SQL, Python, Tableau, and PowerBI, I excel in extracting, cleaning, and analyzing data to develop insightful models. 
+My proactive problem-solving skills, coupled with strong communication and leadership abilities, have consistently contributed to enhanced decision-making processes and efficiency throughout my diverse experience in data analysis and predictive modeling.
               </p>
 
               <p className="mb-5">
-                I am not only passionate about coding, but I also relish every
-                opportunity to learn and expand my horizons. My proficiency in
-                software development allows me to actively contribute to teams,
-                crafting impactful web solutions. With a unique blend of
-                analytical and technical skills, I am driven to make a
-                meaningful impact on every project I undertake.
+                
               </p>
 
               <p className="mb-5">
-                A<strong> team player </strong> at heart, my continual thirst for
-                knowledge fuels my passion for technology and innovation.
+              Demonstrating robust soft skills, I bring strong communication and reporting abilities to collaborative team environments.
+               With a self-motivated and organized approach, I thrive on learning new skills and showcase meticulous attention to detail in problem-solving. As a proactive leader, I have successfully managed and led teams, fostering a dynamic and productive work atmosphere.
               </p>
             </div>
 
